@@ -1,0 +1,11 @@
+{
+    "asset": "94d0b5ff20df32148afb191763f3628a",
+    "fileName": "019b88f3-1e17-74cc-abda-b6d6fee293d2_Preview.png",
+    "prompt": "Generate a terrain layer for a new scene in a game level",
+    "negativePrompt": "",
+    "model": "44ec3749-963a-44b1-aa54-dc19f6ed8ab2",
+    "modelName": "Unity Texture2D",
+    "customSeed": 450469324,
+    "w3CTraceId": "f8fb8c5885fce024adf477a3a0e4eb74",
+    "refinementMode": "Generation"
+}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 7bf7fb7a1b4e44c469cf0b725657c1b3
+  - enabled: 0
+    path: Assets/Scenes/Credits.unity
+    guid: 973ba01f7292e1a4bb79e6a02ed2ec4a
+  - enabled: 1
+    path: Assets/Scenes/SunnySteps-1.unity
+    guid: ad2c743583973cb4e852fb17a12c273f
+  - enabled: 1
+    path: Assets/Scenes/SunnySteps-2.unity
+    guid: 19e1569de2636da4780f36ab493dedf8
+  - enabled: 1
+    path: Assets/Scenes/SunnySteps-3.unity
+    guid: 45449339b8fc4194fb02fc463fcfc35f
+  m_configObjects:
+    com.unity.adaptivePerformance.basic.provider_settings: {fileID: 11400000, guid: 7ae04582c113432408804077e1aed66e, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: e30c7460e3a3ea14cbf50a5bc1c7ced0, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: df1e3fb3f8d647b44b1a410fc98265fd, type: 2}
+    com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
